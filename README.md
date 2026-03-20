@@ -45,3 +45,12 @@ plt.text(0.05, 0.2, f"Total Journey\n{Total_Journey:,}", fontsize=16, weight='bo
 plt.axis("off")
 ~
 plt.show()
+```
+
+# 🐍 Python & Data Science Tools
+
+- [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) **Python**
+- [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/) **Jupyter**
+- [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/) **Jupyter Notebook**
+- [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/) **NumPy**
+- [![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/) **pandas**
